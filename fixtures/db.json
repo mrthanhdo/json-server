@@ -1,7 +1,95 @@
 {
   "posts": [
-    { "id": "1", "title": "a title" },
-    { "id": "2", "title": "another title" }
+    {
+      "id": "1",
+      "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
+      "image": "/images/news1.svg",
+      "date": "2021-06-05",
+      "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "tags": "dryer, washing machine, dishwasher",
+      "slug": "lorem-ipsum-dolor-sit-amet-consecteteur-adip"
+    },
+    {
+      "id": "2",
+      "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
+      "image": "/images/news2.svg",
+      "date": "2021-06-05",
+      "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "tags": "dryer, washing machine, dishwasher",
+      "slug": "lorem-ipsum-dolor-sit-amet-consecteteur-adip"
+    },
+    {
+      "id": "3",
+      "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
+      "image": "/images/news3.svg",
+      "date": "2021-06-05",
+      "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "tags": "dryer, washing machine, dishwasher",
+      "slug": "lorem-ipsum-dolor-sit-amet-consecteteur-adip"
+    },
+    {
+      "id": "4",
+      "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
+      "image": "/images/news4.svg",
+      "date": "2021-06-05",
+      "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "tags": "dryer, washing machine, dishwasher",
+      "slug": "lorem-ipsum-dolor-sit-amet-consecteteur-adip"
+    },
+    {
+      "id": "5",
+      "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
+      "image": "/images/news5.svg",
+      "date": "2021-06-05",
+      "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when",
+      "tags": "dryer, washing machine, dishwasher",
+      "slug": "lorem-ipsum-dolor-sit-amet-consecteteur-adip"
+    },
+    {
+      "id": "6",
+      "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
+      "image": "/images/news6.svg",
+      "date": "2021-06-05",
+      "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "tags": "dryer, washing machine, dishwasher",
+      "slug": "lorem-ipsum-dolor-sit-amet-consecteteur-adip"
+    },
+    {
+      "id": "7",
+      "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
+      "image": "/images/news7.svg",
+      "date": "2021-06-05",
+      "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "tags": "dryer, washing machine, dishwasher",
+      "slug": "lorem-ipsum-dolor-sit-amet-consecteteur-adip"
+    },
+    {
+      "id": "8",
+      "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
+      "image": "/images/news8.svg",
+      "date": "2021-06-05",
+      "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "tags": "dryer, washing machine, dishwasher",
+      "slug": "lorem-ipsum-dolor-sit-amet-consecteteur-adip"
+    },
+    {
+      "id": "9",
+      "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
+      "image": "/images/news9.svg",
+      "date": "2021-06-05",
+      "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "tags": "dryer, washing machine, dishwasher",
+      "slug": "lorem-ipsum-dolor-sit-amet-consecteteur-adip"
+    },
+    {
+      "id": "10",
+      "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
+      "image": "/images/news10.svg",
+      "date": "2021-06-05",
+      "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
+      "tags": "dryer, washing machine, dishwasher",
+      "slug": "lorem-ipsum-dolor-sit-amet-consecteteur-adip"
+    }
   ],
   "comments": [
     { "id": "1", "text": "a comment about post 1", "postId": "1" },
@@ -9,5 +97,243 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+
+  "users": [
+    {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "janesmith@example.com"
+    }
+],
+"parts": [
+  {
+    "id": "price_1McB1XC4V4bOyW0mEbCcuNPe",
+    "name": "Earthen Bottle",
+    "price": 1000,
+    "currency": "USD",
+    "image":
+      "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-01.jpg",
+    "imageAlt":
+      "Tall slender porcelain bottle with natural clay textured body and cork stopper.",
+    "slug": "earthen-bottle"
+  },
+  {
+    "id": "price_1McBPVC4V4bOyW0mqtp8qNLn",
+    "name": "Nomad Tumbler",
+    "price": 800,
+    "currency": "USD",
+    "image":
+      "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-02.jpg",
+    "imageAlt":
+      "Olive drab green insulated bottle with flared screw lid and flat top.",
+    "slug": "nomad-tumbler"
+  },
+  {
+    "id": "price_1McBQBC4V4bOyW0m4sCYXwDz",
+    "name": "Focus Paper Refill",
+    "price": 650,
+    "currency": "USD",
+    "image":
+      "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-03.jpg",
+    "imageAlt":
+      "Person using a pen to cross a task off a productivity paper card.",
+    "slug": "focus-paper-refill"
+  },
+  {
+    "id": "price_1McBQkC4V4bOyW0mk4NGp6bY",
+    "name": "Machined Mechanical Pencil",
+    "price": 1320,
+    "currency": "USD",
+    "image":
+      "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-04.jpg",
+    "imageAlt":
+      "Hand holding black machined steel mechanical pencil with brass tip and top.",
+    "slug": "machined-mechanical-pencil"
+  },
+  {
+    "id": "price_1McBRAC4V4bOyW0m0vq4qX0K",
+    "name": "Hand Crafted Mug",
+    "price": 1800,
+    "currency": "USD",
+    "image":
+      "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-05.jpg",
+    "imageAlt":
+      "Hand pouring hot black coffee into white coffee mug with saucer and spoon.",
+    "slug": "hand-crafted-mug"
+  },
+  {
+    "id": "price_1McBRkC4V4bOyW0mYFb9VZ2P",
+    "name": "Ceramic Pour Over Coffee Maker",
+    "price": 2800,
+    "currency": "USD",
+    "image":
+      "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-06.jpg",
+    "imageAlt":
+      "White ceramic pour over coffee maker on wooden trivet on white background.",
+    "slug": "ceramic-pour-over-coffee-maker"
+  },
+  {
+    "id": "price_1McBSAC4V4bOyW0m5v5Q7J7V",
+    "name": "Earthenware Mug",
+    "price": 1800,
+    "currency": "USD",
+    "image":
+      "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-07.jpg",
+    "imageAlt":
+      "Hand holding black clay mug with glazed finish.",
+    "slug": "earthenware-mug"
+  },
+  {
+    "id": "price_1McBSKC4V4bOyW0m2v5Q7J7V",
+    "name": "Leather Sketchbook",
+    "price": 1800,
+    "currency": "USD",
+    "image":
+      "https://tailwindui.com/img/ecommerce-images/category-page-04-image-card-08.jpg",
+    "imageAlt":
+      "Hand holding open tan leather sketchbook with white page and pencil.",
+    "slug": "leather-sketchbook"
   }
+],
+"products": [
+  {
+    "id": 1,
+    "name": "Dishwasher",
+    "image": "/images/product1.svg",
+    "imageAlt": "Wooden desk organizer with white modular trays, next to porcelain mug and pencil cup."
+  },
+  {
+    "id": 2,
+    "name": "Refrigerator",
+    "image": "/images/product2.svg",
+    "imageAlt": "Collection of four insulated travel books in various colors."
+  },
+  {
+    "id": 3,
+    "name": "Super tepid",
+    "image": "/images/product3.svg",
+    "imageAlt": "Three ceramic plant pots on wooden shelf next to various colored shapes of plant pots."
+  },
+  {
+    "id": 4,
+    "name": "Washing Machine",
+    "image": "/images/product4.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils."
+  },
+  {
+    "id": 5,
+    "name": "microwave oven",
+    "image": "/images/product5.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils."
+  },
+  {
+    "id": 6,
+    "name": "Beauty and Care",
+    "image": "/images/product1.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils."
+  },
+  {
+    "id": 7,
+    "name": "Beauty and Care",
+    "image": "/images/product2.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils."
+  },
+  {
+    "id": 8,
+    "name": "Beauty and Care",
+    "image": "/images/product3.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils."
+  },
+  {
+    "id": 9,
+    "name": "Beauty and Care",
+    "image": "/images/product4.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils."
+  },
+  {
+    "id": 10,
+    "name": "Beauty and Care",
+    "image": "/images/product5.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils."
+  }
+
+],
+"brands": [
+  {
+    "id": 1,
+    "name": "Samsung",
+    "image": "/images/brand1.svg",
+    "imageAlt": "Wooden desk organizer with white modular trays, next to porcelain mug and pencil cup.",
+    "slug": "samsung"
+  },
+  {
+    "id": 2,
+    "name": "Apple",
+    "image": "/images/brand2.svg",
+    "imageAlt": "Collection of four insulated travel books in various colors.",
+    "slug": "apple"
+  },
+  {
+    "id": 3,
+    "name": "Sony",
+    "image": "/images/brand3.svg",
+    "imageAlt": "Three ceramic plant pots on wooden shelf next to various colored shapes of plant pots.",
+    "slug": "sony"
+  },
+  {
+    "id": 4,
+    "name": "LG",
+    "image": "/images/brand4.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils.",
+    "slug": "lg"
+  },
+  {
+    "id": 5,
+    "name": "Nokia",
+    "image": "/images/brand5.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils.",
+    "slug": "nokia"
+  },
+  {
+    "id": 6,
+    "name": "Samsung",
+    "image": "/images/brand1.svg",
+    "imageAlt": "Wooden desk organizer with white modular trays, next to porcelain mug and pencil cup.",
+    "slug": "samsung"
+  },
+  {
+    "id": 7,
+    "name": "Apple",
+    "image": "/images/brand2.svg",
+    "imageAlt": "Collection of four insulated travel books in various colors.",
+    "slug": "apple"
+  },
+  {
+    "id": 8,
+    "name": "Sony",
+    "image": "/images/brand3.svg",
+    "imageAlt": "Three ceramic plant pots on wooden shelf next to various colored shapes of plant pots.",
+    "slug": "sony"
+  },
+  {
+    "id": 9,
+    "name": "LG",
+    "image": "/images/brand4.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils.",
+    "slug": "lg"
+  },
+  {
+    "id": 10,
+    "name": "Nokia",
+    "image": "/images/brand5.svg",
+    "imageAlt": "Collection of four amber glass bottles of face and body oils.",
+    "slug": "nokia"
+  }
+]
 }
