@@ -66,7 +66,7 @@
     {
       "id": "8",
       "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
-      "image": "/images/news8.svg",
+      "image": "/images/news1.svg",
       "date": "2021-06-05",
       "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
       "tags": "dryer, washing machine, dishwasher",
@@ -75,7 +75,7 @@
     {
       "id": "9",
       "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
-      "image": "/images/news9.svg",
+      "image": "/images/news2.svg",
       "date": "2021-06-05",
       "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
       "tags": "dryer, washing machine, dishwasher",
@@ -84,7 +84,7 @@
     {
       "id": "10",
       "title": "Lorem Ipsum Dolor sit amet, consecteteur adip",
-      "image": "/images/news10.svg",
+      "image": "/images/news3.svg",
       "date": "2021-06-05",
       "lead": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type.",
       "tags": "dryer, washing machine, dishwasher",
@@ -268,72 +268,58 @@
   {
     "id": 1,
     "name": "Samsung",
-    "image": "/images/brand1.svg",
+    "image": "/images/logo/samsung.svg",
     "imageAlt": "Wooden desk organizer with white modular trays, next to porcelain mug and pencil cup.",
     "slug": "samsung"
   },
   {
     "id": 2,
-    "name": "Apple",
-    "image": "/images/brand2.svg",
+    "name": "Lg",
+    "image": "/images/logo/lg.svg",
     "imageAlt": "Collection of four insulated travel books in various colors.",
-    "slug": "apple"
+    "slug": "lg"
   },
   {
     "id": 3,
-    "name": "Sony",
-    "image": "/images/brand3.svg",
+    "name": "Maytag",
+    "image": "/images/logo/maytag.svg",
     "imageAlt": "Three ceramic plant pots on wooden shelf next to various colored shapes of plant pots.",
-    "slug": "sony"
+    "slug": "maytag"
   },
   {
     "id": 4,
-    "name": "LG",
-    "image": "/images/brand4.svg",
+    "name": "Kenmore",
+    "image": "/images/logo/kenmore.svg",
     "imageAlt": "Collection of four amber glass bottles of face and body oils.",
-    "slug": "lg"
+    "slug": "kenmore"
   },
   {
     "id": 5,
-    "name": "Nokia",
-    "image": "/images/brand5.svg",
+    "name": "KitchenAid",
+    "image": "/images/logo/kitchenaid.svg",
     "imageAlt": "Collection of four amber glass bottles of face and body oils.",
-    "slug": "nokia"
+    "slug": "kitchenaid"
   },
   {
     "id": 6,
-    "name": "Samsung",
-    "image": "/images/brand1.svg",
+    "name": "Sharp",
+    "image": "/images/logo/sharp.svg",
     "imageAlt": "Wooden desk organizer with white modular trays, next to porcelain mug and pencil cup.",
-    "slug": "samsung"
+    "slug": "sharp"
   },
   {
     "id": 7,
-    "name": "Apple",
-    "image": "/images/brand2.svg",
+    "name": "Electrolux",
+    "image": "/images/logo/electrolux.svg",
     "imageAlt": "Collection of four insulated travel books in various colors.",
-    "slug": "apple"
+    "slug": "Electrolux"
   },
   {
     "id": 8,
-    "name": "Sony",
-    "image": "/images/brand3.svg",
+    "name": "General Electric",
+    "image": "/images/logo/general-electric.svg",
     "imageAlt": "Three ceramic plant pots on wooden shelf next to various colored shapes of plant pots.",
-    "slug": "sony"
-  },
-  {
-    "id": 9,
-    "name": "LG",
-    "image": "/images/brand4.svg",
-    "imageAlt": "Collection of four amber glass bottles of face and body oils.",
-    "slug": "lg"
-  },
-  {
-    "id": 10,
-    "name": "Nokia",
-    "image": "/images/brand5.svg",
-    "imageAlt": "Collection of four amber glass bottles of face and body oils.",
-    "slug": "nokia"
+    "slug": "general-electric"
   }
 ]
 }
